@@ -1,0 +1,36 @@
+#main {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 25px;
+  }
+  
+  #title {
+      font-size: 45px;
+      color: red;
+      text-align: center;
+      text-shadow: 5px 5px 10px black;
+  }
+  #img-caption {
+    width: 400px;
+  }
+  
+  #image {
+    height: auto;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  h3 {
+    color: blue
+  }
+  h4 {
+    color: blue
+  }
+  h5 {
+    color: blue
+  }
+  #h{
+    text-align: right
+  }
